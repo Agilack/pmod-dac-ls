@@ -1,0 +1,26 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CONN_3
+K CONN
+$ENDCMP
+#
+$CMP MCP4921
+D DAC 12bits with SPI interface
+K DAC SPI
+$ENDCMP
+#
+$CMP MCP6001
+D Op Amp in 5-pin package
+K op amp amplifier operational
+$ENDCMP
+#
+$CMP Q_NPN
+D General purpose NPN transistor
+K TRANSISTOR NPN
+$ENDCMP
+#
+$CMP Q_PNP
+K pnp transistor
+$ENDCMP
+#
+#End Doc Library
